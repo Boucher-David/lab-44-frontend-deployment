@@ -1,6 +1,9 @@
 401 JS --  Lab 44 Deploy Frontend
 ===
+David's Description
 
+
+===
 ## Submission Instructions
 * Create a repoistory on you github account
 * Copy a frontend project into your repository
